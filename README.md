@@ -15,9 +15,9 @@
 ## Audio Commands
 | Command       | Description    |
 |---------------|----------------|
-| !god          | Learn two eternal truths about Kaizo Mario spoken by Shortfusd |
+| !god          | Learn two eternal truths about Kaizo Mario spoken by [Shortfusd](https://twitch.tv/shortfusd) |
 | !fkbeat       | Sometimes we need conviction |
-| !fkudolphin   | All fish suck. Some are even worse according to 5uak |
+| !fkudolphin   | All fish suck. Some are even worse according to [5uak](https://twitch.tv/5uak) |
 
 
 ## Kaizo Commands
