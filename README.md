@@ -17,7 +17,7 @@
 |---------------|----------------|
 | !god          | Learn two eternal truths about Kaizo Mario spoken by Shortfusd |
 | !fkbeat       | Sometimes we need conviction |
-| !fkudolphin   | All fish suck. Some suck even worse according to 5uak |
+| !fkudolphin   | All fish suck. Some are even worse according to 5uak |
 
 
 ## Kaizo Commands
