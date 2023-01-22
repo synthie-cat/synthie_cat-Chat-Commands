@@ -20,10 +20,11 @@
 | !fkudolphin   | All fish suck. Some are even worse according to [5uak](https://twitch.tv/5uak) |
 
 
-## Kaizo Commands
+## Romhack Commands
 | Command       | Description    |
 |---------------|----------------|
-| !hack         | Displays the current hack |
+| !romhack search | Search for a romhack on SMW Central |
+| !hack | Display the current hack |
 | !yoshi        | Mlem |
 
 ## General Commands
